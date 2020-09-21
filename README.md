@@ -1,3 +1,8 @@
 # THE-SPARKS-FOUNDATION
 
 This repository contains all the tasks given in DATA SCIENCE AND ANALYTIC INTERNSHIP by SPARKS FOUNDATION
+
+TASK 2 :  
+TASK 3 :
+TASK 4 :
+TASK 5 :
